@@ -12,11 +12,11 @@ body{
 }
 h2{
   text-align: center;
-}
+/* }
 .navbar-brand{
     padding-top: 25px;
 }
-.navbar-brand h1{ /* Resturant Name */
+.navbar-brand h1{ 
     font-family: 'Lora', serif;
     color:white;
     font-size: 1.5em;
@@ -48,7 +48,7 @@ h2{
 }
 .navbar-header button.navbar-toggle {
   clear: both;
-  margin-top: -30px;
+  margin-top: -30px; */
 }
 /* END HEADER */
 /********** Large devices only **********/
