@@ -70,7 +70,7 @@ h1{
     background: url('../images/jumbotron_1200.jpg') no-repeat;
     height: 675px;
   }
-  .col-lg-4{
+  .col{
     float: left;
   }
   .col-lg-4{
@@ -95,15 +95,13 @@ h1{
     height: 558px;
   }
   /* End Home Page */
-  .col-md-2{
+  .col{
     float: left;
   }
   .col-md-2{
     width: 50%;
   }
-  .col-md-12{
-    float: left;
-  }
+  
   .col-md-12{
     width: 100%;
   }
@@ -117,7 +115,7 @@ h1{
     height: 432px;
   }
   /* End Home Page */
-  .col-sm-1{
+  .col{
     float: left;
   }
   .col-sm-1{
